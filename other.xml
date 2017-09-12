@@ -1,5 +1,80 @@
 <application>
-  <component name="CPPToolchains">
-    <option name="detectedVersion" value="5" />
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>WebSocket issues</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyInterpreterInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/6.6.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/6.5.0/bin/node" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/anaconda/bin/python.app" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INLINE_METHOD_THIS" value="true" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="svn://svn/system/algorithms-config" />
+        <option value="svn://svn/system/related-content-config/branches/production/config/shared_setup" />
+        <option value="svn://svn/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="svn://svn/system/algorithms-config" />
+        <option value="svn://svn/system/related-content-config/branches/production/config/shared_setup" />
+        <option value="svn://svn/" />
+        <option value="svn://svn/products/branches/5" />
+        <option value="svn://svn" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="/opt/local/bin/svn" />
   </component>
 </application>

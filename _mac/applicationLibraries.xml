@@ -1,236 +1,30 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 2.7.10 (/usr/bin/python2.7) interpreter library">
+    <library name="jquery" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_3.1.1_jquery.js" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
-        <root url="jar:///Library/Python/2.7/site-packages/dal-1.0-py2.7.egg!/" />
-        <root url="file:///Library/Python/2.7/site-packages/psutil-3.3.0-py2.7-macosx-10.11-intel.egg" />
-        <root url="file:///Library/Python/2.7/site-packages/six-1.10.0-py2.7.egg" />
-        <root url="file:///Library/Python/2.7/site-packages/future-0.15.2-py2.7.egg" />
-        <root url="jar:///Library/Python/2.7/site-packages/tabulate-0.7.5-py2.7.egg!/" />
-        <root url="file:///Library/Python/2.7/site-packages/requests-2.9.1-py2.7.egg" />
-        <root url="file:///Library/Python/2.7/site-packages/nosexcover-1.0.10-py2.7.egg" />
-        <root url="jar:///Library/Python/2.7/site-packages/ujson-1.33-py2.7-macosx-10.11-intel.egg!/" />
-        <root url="file:///Library/Python/2.7/site-packages/bigquery_io-1.1-py2.7.egg" />
-        <root url="jar:///Library/Python/2.7/site-packages/gsutil-4.16-py2.7.egg!/" />
-        <root url="file:///Library/Python/2.7/site-packages/boto-2.38.0-py2.7.egg" />
-        <root url="jar:///Library/Python/2.7/site-packages/oauth2client-1.5.2-py2.7.egg!/" />
-        <root url="jar:///Library/Python/2.7/site-packages/google_api_python_client-1.4.2-py2.7.egg!/" />
-        <root url="jar:///Library/Python/2.7/site-packages/retry_decorator-1.1.0-py2.7.egg!/" />
-        <root url="jar:///Library/Python/2.7/site-packages/SocksiPy_branch-1.01-py2.7.egg!/" />
-        <root url="jar:///Library/Python/2.7/site-packages/python_gflags-3.0.6-py2.7.egg!/" />
-        <root url="file:///Library/Python/2.7/site-packages/google_apitools-0.4.12-py2.7.egg" />
-        <root url="jar:///Library/Python/2.7/site-packages/crcmod-1.7-py2.7-macosx-10.11-intel.egg!/" />
-        <root url="jar:///Library/Python/2.7/site-packages/rsa-3.4.2-py2.7.egg!/" />
-        <root url="jar:///Library/Python/2.7/site-packages/uritemplate-0.6-py2.7.egg!/" />
-        <root url="file:///Library/Python/2.7/site-packages/simplejson-3.8.2-py2.7-macosx-10.11-intel.egg" />
-        <root url="jar:///Library/Python/2.7/site-packages/spark_handler-1.0-py2.7.egg!/" />
-        <root url="file:///Library/Python/2.7/site-packages/flaky-3.0.3-py2.7.egg" />
-        <root url="file:///Library/Python/2.7/site-packages/futures-3.0.3-py2.7.egg" />
-        <root url="file:///Library/Python/2.7/site-packages/p13n-1.0-py2.7.egg" />
-        <root url="file:///usr/bin" />
-        <root url="file://$USER_HOME$/spark/python" />
-        <root url="jar://$USER_HOME$/spark/python/lib/py4j-0.9-src.zip!/" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
-        <root url="file:///Library/Python/2.7/site-packages" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
-        <root url="file://$USER_HOME$/Library/Caches/CLion2017.2/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_3.1.1_jquery.js" />
       </CLASSES>
-      <SOURCES>
-        <root url="jar:///Library/Python/2.7/site-packages/dal-1.0-py2.7.egg!/" />
-        <root url="file:///Library/Python/2.7/site-packages/psutil-3.3.0-py2.7-macosx-10.11-intel.egg" />
-        <root url="file:///Library/Python/2.7/site-packages/six-1.10.0-py2.7.egg" />
-        <root url="file:///Library/Python/2.7/site-packages/future-0.15.2-py2.7.egg" />
-        <root url="jar:///Library/Python/2.7/site-packages/tabulate-0.7.5-py2.7.egg!/" />
-        <root url="file:///Library/Python/2.7/site-packages/requests-2.9.1-py2.7.egg" />
-        <root url="file:///Library/Python/2.7/site-packages/nosexcover-1.0.10-py2.7.egg" />
-        <root url="jar:///Library/Python/2.7/site-packages/ujson-1.33-py2.7-macosx-10.11-intel.egg!/" />
-        <root url="file:///Library/Python/2.7/site-packages/bigquery_io-1.1-py2.7.egg" />
-        <root url="jar:///Library/Python/2.7/site-packages/gsutil-4.16-py2.7.egg!/" />
-        <root url="file:///Library/Python/2.7/site-packages/boto-2.38.0-py2.7.egg" />
-        <root url="jar:///Library/Python/2.7/site-packages/oauth2client-1.5.2-py2.7.egg!/" />
-        <root url="jar:///Library/Python/2.7/site-packages/google_api_python_client-1.4.2-py2.7.egg!/" />
-        <root url="jar:///Library/Python/2.7/site-packages/retry_decorator-1.1.0-py2.7.egg!/" />
-        <root url="jar:///Library/Python/2.7/site-packages/SocksiPy_branch-1.01-py2.7.egg!/" />
-        <root url="jar:///Library/Python/2.7/site-packages/python_gflags-3.0.6-py2.7.egg!/" />
-        <root url="file:///Library/Python/2.7/site-packages/google_apitools-0.4.12-py2.7.egg" />
-        <root url="jar:///Library/Python/2.7/site-packages/crcmod-1.7-py2.7-macosx-10.11-intel.egg!/" />
-        <root url="jar:///Library/Python/2.7/site-packages/rsa-3.4.2-py2.7.egg!/" />
-        <root url="jar:///Library/Python/2.7/site-packages/uritemplate-0.6-py2.7.egg!/" />
-        <root url="file:///Library/Python/2.7/site-packages/simplejson-3.8.2-py2.7-macosx-10.11-intel.egg" />
-        <root url="jar:///Library/Python/2.7/site-packages/spark_handler-1.0-py2.7.egg!/" />
-        <root url="file:///Library/Python/2.7/site-packages/flaky-3.0.3-py2.7.egg" />
-        <root url="file:///Library/Python/2.7/site-packages/futures-3.0.3-py2.7.egg" />
-        <root url="file:///Library/Python/2.7/site-packages/p13n-1.0-py2.7.egg" />
-        <root url="file:///usr/bin" />
-        <root url="file://$USER_HOME$/spark/python" />
-        <root url="jar://$USER_HOME$/spark/python/lib/py4j-0.9-src.zip!/" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
-        <root url="file:///Library/Python/2.7/site-packages" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
-        <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
-        <root url="file://$USER_HOME$/Library/Caches/CLion2017.2/python_stubs/-1247972723" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <JAVADOC />
+      <SOURCES />
     </library>
-    <library name="Python 2.7.13 (/usr/local/bin/python) interpreter library">
-      <CLASSES>
-        <root url="file:///usr/local/bin" />
-        <root url="file://$USER_HOME$/spark/python" />
-        <root url="jar://$USER_HOME$/spark/python/lib/py4j-0.9-src.zip!/" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/site-packages" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/readline-6.2.4.1-py2.7-macosx-10.10-x86_64.egg" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/pyzmq-15.0.0-py2.7-macosx-10.10-x86_64.egg" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/Pygments-2.0.2-py2.7.egg" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/tornado-4.3-py2.7-macosx-10.10-x86_64.egg" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/backports_abc-0.4-py2.7.egg!/" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/singledispatch-3.4.0.3-py2.7.egg!/" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/backports.ssl_match_hostname-3.4.0.2-py2.7.egg" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/six-1.10.0-py2.7.egg" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/seq2seq-0.1.0-py2.7.egg!/" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/Keras-1.0.6-py2.7.egg" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/psutil-3.3.0-py2.7-macosx-10.11-x86_64.egg" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/ujson-1.33-py2.7-macosx-10.11-x86_64.egg!/" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/SQLAlchemy-1.0.9-py2.7-macosx-10.11-x86_64.egg!/" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/scikit_learn-0.16.1-py2.7-macosx-10.11-x86_64.egg" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/prettytable-0.7.2-py2.7.egg!/" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/us-0.9.1-py2.7.egg" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/coverage-4.3.1-py2.7-macosx-10.11-x86_64.egg" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/jellyfish-0.5.1-py2.7-macosx-10.11-x86_64.egg!/" />
-        <root url="file://$USER_HOME$/Documents/r/Python/Taboola/products/ctrmodels" />
-        <root url="file://$USER_HOME$/Documents/r/Python/Taboola/products/dal" />
-        <root url="file://$USER_HOME$/Documents/r/Python/Taboola/products/spark_handler" />
-        <root url="file://$USER_HOME$/Documents/r/Python/Taboola/products/parsing_utils/json_loader" />
-        <root url="file://$USER_HOME$/Documents/r/Python/Taboola/products/taboola_utils" />
-        <root url="file://$USER_HOME$/Documents/r/Python/Taboola/products/parsing_utils/config_parser" />
-        <root url="file://$USER_HOME$/Documents/r/Python/Taboola/products/data_handling_utils/data_loaders" />
-        <root url="file://$USER_HOME$/Documents/r/Python/Taboola/products/data_handling_utils/datasets_cacher" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/gcs_oauth2_boto_plugin-1.9-py2.7.egg!/" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/BigQuery_Python-1.4.0-py2.7.egg!/" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/oauth2client-1.5.2-py2.7.egg!/" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/future-0.16.0-py2.7.egg" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/dask-0.12.0-py2.7.egg" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/grpcio-1.0.2-py2.7-macosx-10.12-x86_64.egg!/" />
-        <root url="file://$USER_HOME$/Documents/r/Python/Taboola/products/metrics" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/python_snappy-0.5.1-py2.7-macosx-10.12-x86_64.egg!/" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/snakebite-2.11.0-py2.7.egg!/" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/toolz-0.8.2-py2.7.egg" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/cloudpickle-0.3.1-py2.7.egg" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/statsmodels-0.8.0-py2.7-macosx-10.12-x86_64.egg" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/seaborn-0.6.0-py2.7.egg" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/tqdm-4.14.0-py2.7.egg" />
-        <root url="file://$USER_HOME$/Documents/r/Python/Taboola/products/personalization" />
-        <root url="file://$USER_HOME$/Documents/r/Python/Taboola/products/bigquery_io" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/boto-2.38.0-py2.7.egg" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/google_api_python_client-1.4.2-py2.7.egg!/" />
-        <root url="file:///usr/local/lib/python2.7/site-packages" />
-        <root url="jar:///Library/Python/2.7/site-packages/tabulate-0.7.5-py2.7.egg!/" />
-        <root url="file:///Library/Python/2.7/site-packages/nosexcover-1.0.10-py2.7.egg" />
-        <root url="file:///Library/Python/2.7/site-packages/flaky-3.0.3-py2.7.egg" />
-        <root url="jar:///Library/Python/2.7/site-packages/retry_decorator-1.1.0-py2.7.egg!/" />
-        <root url="jar:///Library/Python/2.7/site-packages/SocksiPy_branch-1.01-py2.7.egg!/" />
-        <root url="jar:///Library/Python/2.7/site-packages/rsa-3.4.2-py2.7.egg!/" />
-        <root url="file://$USER_HOME$/Library/Caches/CLion2017.2/python_stubs/-923448878" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///usr/local/bin" />
-        <root url="file://$USER_HOME$/spark/python" />
-        <root url="jar://$USER_HOME$/spark/python/lib/py4j-0.9-src.zip!/" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-        <root url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
-        <root url="file:///usr/local/lib/python2.7/site-packages" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/readline-6.2.4.1-py2.7-macosx-10.10-x86_64.egg" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/pyzmq-15.0.0-py2.7-macosx-10.10-x86_64.egg" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/Pygments-2.0.2-py2.7.egg" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/tornado-4.3-py2.7-macosx-10.10-x86_64.egg" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/backports_abc-0.4-py2.7.egg!/" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/singledispatch-3.4.0.3-py2.7.egg!/" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/backports.ssl_match_hostname-3.4.0.2-py2.7.egg" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/six-1.10.0-py2.7.egg" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/seq2seq-0.1.0-py2.7.egg!/" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/Keras-1.0.6-py2.7.egg" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/psutil-3.3.0-py2.7-macosx-10.11-x86_64.egg" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/ujson-1.33-py2.7-macosx-10.11-x86_64.egg!/" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/SQLAlchemy-1.0.9-py2.7-macosx-10.11-x86_64.egg!/" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/scikit_learn-0.16.1-py2.7-macosx-10.11-x86_64.egg" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/prettytable-0.7.2-py2.7.egg!/" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/us-0.9.1-py2.7.egg" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/coverage-4.3.1-py2.7-macosx-10.11-x86_64.egg" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/jellyfish-0.5.1-py2.7-macosx-10.11-x86_64.egg!/" />
-        <root url="file://$USER_HOME$/Documents/r/Python/Taboola/products/ctrmodels" />
-        <root url="file://$USER_HOME$/Documents/r/Python/Taboola/products/dal" />
-        <root url="file://$USER_HOME$/Documents/r/Python/Taboola/products/spark_handler" />
-        <root url="file://$USER_HOME$/Documents/r/Python/Taboola/products/parsing_utils/json_loader" />
-        <root url="file://$USER_HOME$/Documents/r/Python/Taboola/products/taboola_utils" />
-        <root url="file://$USER_HOME$/Documents/r/Python/Taboola/products/parsing_utils/config_parser" />
-        <root url="file://$USER_HOME$/Documents/r/Python/Taboola/products/data_handling_utils/data_loaders" />
-        <root url="file://$USER_HOME$/Documents/r/Python/Taboola/products/data_handling_utils/datasets_cacher" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/gcs_oauth2_boto_plugin-1.9-py2.7.egg!/" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/BigQuery_Python-1.4.0-py2.7.egg!/" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/oauth2client-1.5.2-py2.7.egg!/" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/future-0.16.0-py2.7.egg" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/dask-0.12.0-py2.7.egg" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/grpcio-1.0.2-py2.7-macosx-10.12-x86_64.egg!/" />
-        <root url="file://$USER_HOME$/Documents/r/Python/Taboola/products/metrics" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/python_snappy-0.5.1-py2.7-macosx-10.12-x86_64.egg!/" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/snakebite-2.11.0-py2.7.egg!/" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/toolz-0.8.2-py2.7.egg" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/cloudpickle-0.3.1-py2.7.egg" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/statsmodels-0.8.0-py2.7-macosx-10.12-x86_64.egg" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/seaborn-0.6.0-py2.7.egg" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/tqdm-4.14.0-py2.7.egg" />
-        <root url="file://$USER_HOME$/Documents/r/Python/Taboola/products/personalization" />
-        <root url="file://$USER_HOME$/Documents/r/Python/Taboola/products/bigquery_io" />
-        <root url="file:///usr/local/lib/python2.7/site-packages/boto-2.38.0-py2.7.egg" />
-        <root url="jar:///usr/local/lib/python2.7/site-packages/google_api_python_client-1.4.2-py2.7.egg!/" />
-        <root url="file:///usr/local/lib/python2.7/site-packages" />
-        <root url="jar:///Library/Python/2.7/site-packages/tabulate-0.7.5-py2.7.egg!/" />
-        <root url="file:///Library/Python/2.7/site-packages/nosexcover-1.0.10-py2.7.egg" />
-        <root url="file:///Library/Python/2.7/site-packages/flaky-3.0.3-py2.7.egg" />
-        <root url="jar:///Library/Python/2.7/site-packages/retry_decorator-1.1.0-py2.7.egg!/" />
-        <root url="jar:///Library/Python/2.7/site-packages/SocksiPy_branch-1.01-py2.7.egg!/" />
-        <root url="jar:///Library/Python/2.7/site-packages/rsa-3.4.2-py2.7.egg!/" />
-        <root url="file://$USER_HOME$/Library/Caches/CLion2017.2/python_stubs/-923448878" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
+    <library name="Python 2.7.10 (~/anaconda/bin/python.app) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Python 2.7.12 (~/anaconda2/bin/python2.7) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
     </library>
   </component>
 </application>

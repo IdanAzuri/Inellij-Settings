@@ -3,15 +3,34 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="$USER_HOME$/repo/tensorflow-serving/tensorflow_serving" />
+          <option name="url" value="ssh://git@linus.office.taboola.com:7999/algo/r.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="ssh://git@linus.office.taboola.com:7999/algo/tensorflow-serving.git" />
+          <option name="url" value="ssh://git@linus.office.taboola.com:7999/dev/products.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@linus.office.taboola.com:7999/dev/algo-service-configuration.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/repo" />
+    <option name="cloneParentDir" value="$USER_HOME$/repo/" />
+  </component>
+  <component name="HgRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="svn://svn" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="svn://svn/system/related-content-config/branches/production/config/shared_setup" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/Documents" />
   </component>
 </application>
