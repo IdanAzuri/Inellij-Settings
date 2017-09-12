@@ -2,6 +2,16 @@
   <action id="Console.TableResult.NavigateAction">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="DSM.OpenInEditor">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Database.OpenDbStorageAction">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Debugger.EditFrameSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="DecrementWindowHeight" />
   <action id="DomCollectionControl.Edit">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -11,12 +21,12 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
-  <action id="EditorMoveToPageBottomWithSelection">
-    <keyboard-shortcut first-keystroke="shift meta page_down" />
+  <action id="EditorPageDownWithSelection">
+    <keyboard-shortcut first-keystroke="shift page_down" />
     <keyboard-shortcut first-keystroke="shift meta down" />
   </action>
-  <action id="EditorMoveToPageTopWithSelection">
-    <keyboard-shortcut first-keystroke="shift meta page_up" />
+  <action id="EditorPageUpWithSelection">
+    <keyboard-shortcut first-keystroke="shift page_up" />
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
   <action id="EditorScrollBottom">
@@ -25,6 +35,13 @@
   <action id="EditorScrollTop">
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
+  <action id="ExternalSystem.OpenConfig">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Graph.Faces.OpenSelectedPages">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="IncrementWindowHeight" />
   <action id="IpnbMoveCellDownAction" />
   <action id="IpnbMoveCellUpAction" />
   <action id="Jdbc.OpenTableEditor">
@@ -32,32 +49,20 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="OpenModuleSettings">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="RemoteHostView.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
-  <action id="Run">
-    <keyboard-shortcut first-keystroke="ctrl r" />
-    <keyboard-shortcut first-keystroke="f5" />
-  </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
-  <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="ctrl alt enter" />
-  </action>
-  <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="ctrl alt down" />
-  </action>
-  <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
-  </action>
-  <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
-  </action>
-  <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  <action id="Vcs.Log.OpenRepositoryVersion">
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="XDebugger.JumpToSource">
     <keyboard-shortcut first-keystroke="f4" />
