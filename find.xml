@@ -7,6 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="FILE_MASK" value="*ranker*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -26,6 +27,10 @@
       <mask>*m*.xml</mask>
       <mask>*ms*.xml</mask>
       <mask>*msn*.xml</mask>
+      <mask>*ra*.xml</mask>
+      <mask>*ran*.xml</mask>
+      <mask>*ranke*.xml</mask>
+      <mask>*ranker*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
