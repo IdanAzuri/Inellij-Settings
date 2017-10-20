@@ -18,6 +18,10 @@
           <option name="url" value="ssh://git@linus.office.taboola.com:7999/algo/tensorflow-serving.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@linus.office.taboola.com:7999/dev/service-configuration.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/repo/" />
@@ -36,5 +40,8 @@
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/repo/products" />
   </component>
 </application>
