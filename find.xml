@@ -32,6 +32,11 @@
       <mask>*ran*.xml</mask>
       <mask>*ranke*.xml</mask>
       <mask>*ranker*.xml</mask>
+      <mask>*</mask>
+      <mask>*ht</mask>
+      <mask>*htm</mask>
+      <mask>*htmk</mask>
+      <mask>*html</mask>
     </recentFileMasks>
   </component>
 </application>
