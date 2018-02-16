@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="RpmLiftQuery" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping pattern="DCGAN_a" type="Python" />
     </extensionMap>
   </component>
 </application>
