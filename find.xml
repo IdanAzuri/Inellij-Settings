@@ -2,40 +2,12 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.xml</mask>
-      <mask>**.xml</mask>
-      <mask>*canada*.xml</mask>
-      <mask>*canad*.xml</mask>
-      <mask>*cana*.xml</mask>
-      <mask>*can*.xml</mask>
-      <mask>*ca*.xml</mask>
-      <mask>*m*.xml</mask>
-      <mask>*ms*.xml</mask>
-      <mask>*msn*.xml</mask>
-      <mask>*ra*.xml</mask>
-      <mask>*ran*.xml</mask>
-      <mask>*ranke*.xml</mask>
-      <mask>*ranker*.xml</mask>
-      <mask>*</mask>
-      <mask>*ht</mask>
-      <mask>*htm</mask>
-      <mask>*htmk</mask>
-      <mask>*html</mask>
-      <mask>*.py</mask>
-    </recentFileMasks>
   </component>
 </application>
