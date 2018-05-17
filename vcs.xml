@@ -30,6 +30,10 @@
           <option name="url" value="ssh://git@git.taboolasyndication.com:7999/algo/algorithms-config.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@git.taboolasyndication.com:7999/algo/r.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/repo" />

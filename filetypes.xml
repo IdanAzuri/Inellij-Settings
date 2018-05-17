@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="campaign_log" type="PLAIN_TEXT" />
       <mapping pattern="RpmLiftQuery" type="PLAIN_TEXT" />
+      <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping pattern="DCGAN_a" type="Python" />
     </extensionMap>
