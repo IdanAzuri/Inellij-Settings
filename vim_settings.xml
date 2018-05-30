@@ -16,9 +16,14 @@
         <mark key="^" line="100" column="63" />
         <mark key="." line="97" column="70" />
       </file>
-      <file name="$USER_HOME$/repos/tensorflow-generative-model-collections/utils.py" timestamp="1527672581926" />
-      <file name="$USER_HOME$/repos/tensorflow-generative-model-collections/download.py" timestamp="1527672477126">
-        <mark key="[" line="265" column="30" />
+      <file name="$USER_HOME$/repos/tensorflow-generative-model-collections/utils.py" timestamp="1527672819834">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="2" />
+        <mark key="." line="64" column="2" />
+        <mark key="^" line="64" column="2" />
+      </file>
+      <file name="$USER_HOME$/repos/tensorflow-generative-model-collections/download.py" timestamp="1527672851370">
+        <mark key="[" line="140" column="0" />
         <mark key="]" line="246" column="19" />
         <mark key="." line="246" column="19" />
         <mark key="^" line="246" column="19" />
@@ -30,7 +35,7 @@
         <text encoding="base64">CQlzZWxmLmxvZ19kaXIgPSAnbG9ncy97fS8nLmZvcm1hdChjbGFzc2lmaWVyX25hbWUpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">CQlzZWxmLmNsYXNzaWZpZXJfbmFtZSA9IGNsYXNzaWZpZXJfbmFtZQo=</text>
@@ -51,7 +56,7 @@
         <text encoding="base64">CQlzZWxmLm51bV9lcG9jaHMgPSAxMDAK</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text />
       </register>
     </registers>
     <search>
