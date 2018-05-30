@@ -22,6 +22,9 @@
         <mark key="." line="64" column="2" />
         <mark key="^" line="64" column="2" />
       </file>
+      <file name="$USER_HOME$/repos/tensorflow-generative-model-collections/MultiModalInfoGAN.py" timestamp="1527673866204">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/tensorflow-generative-model-collections/download.py" timestamp="1527672851370">
         <mark key="[" line="140" column="0" />
         <mark key="]" line="246" column="19" />
@@ -29,7 +32,10 @@
         <mark key="^" line="246" column="19" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="293" column="26" filename="$USER_HOME$/repos/tensorflow-generative-model-collections/MultiModalInfoGAN.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/tensorflow-generative-model-collections/MultiModalInfoGAN.py" />
+    </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">CQlzZWxmLmxvZ19kaXIgPSAnbG9ncy97fS8nLmZvcm1hdChjbGFzc2lmaWVyX25hbWUpCg==</text>
@@ -58,13 +64,21 @@
       <register name="-" type="4">
         <text />
       </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxzdGFydF9lcG9jaFw+</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxzdGFydF9lcG9jaFw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxzdGFydF9lcG9jaFw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxzdGFydF9lcG9jaFw+</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
