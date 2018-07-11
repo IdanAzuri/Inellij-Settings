@@ -5,6 +5,7 @@
   <Python>
     <option name="NEW_LINE_AFTER_COLON" value="true" />
     <option name="FROM_IMPORT_TRAILING_COMMA_IF_MULTILINE" value="true" />
+    <option name="HANG_CLOSING_BRACKETS" value="true" />
   </Python>
   <codeStyleSettings language="Haml">
     <indentOptions>
