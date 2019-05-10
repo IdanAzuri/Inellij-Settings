@@ -13,11 +13,20 @@
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings version="173" language="Hoi4">
+    <option name="OTHER_INDENT_OPTIONS">
+      <value>
+        <option name="USE_TAB_CHARACTER" value="true" />
+        <option name="SMART_TABS" value="true" />
+      </value>
+    </option>
+  </codeStyleSettings>
   <codeStyleSettings language="Python">
     <option name="RIGHT_MARGIN" value="180" />
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
     <option name="BLANK_LINES_AROUND_CLASS" value="2" />
+    <option name="SPACE_BEFORE_COMMA" value="true" />
     <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
