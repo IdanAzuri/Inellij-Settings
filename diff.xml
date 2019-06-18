@@ -41,19 +41,13 @@
   </component>
   <component name="ExternalDiffSettings">
     <option name="DIFF_ENABLED" value="true" />
-    <option name="DIFF_DEFAULT" value="false" />
     <option name="DIFF_EXE_PATH" value="/Applications/Beyond Compare.app/Contents/MacOS/BCompare" />
-    <option name="DIFF_PARAMETERS" value="%1 %2 %3" />
-    <option name="MERGE_ENABLED" value="false" />
-    <option name="MERGE_EXE_PATH" value="" />
-    <option name="MERGE_PARAMETERS" value="%1 %2 %3 %4" />
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
       <entry key="CommitDialog">
         <PlaceSettings>
           <option name="ENABLE_SYNC_SCROLL" value="false" />
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
           <option name="READ_ONLY_LOCK" value="false" />
         </PlaceSettings>
       </entry>
