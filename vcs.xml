@@ -50,6 +50,14 @@
           <option name="url" value="https://github.com/IdanAzuri/VGGFace2-pytorch.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.cs.huji.ac.il/idan-azuri/search_in_latent_space.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.cs.huji.ac.il" />
+          <option name="userName" value="idan.azuri" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/repos" />
