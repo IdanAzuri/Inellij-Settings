@@ -15,7 +15,8 @@
     <mask>*.sh</mask>
     <mask>*aug*</mask>
     <mask>*.yml</mask>
-    <mask>*.py</mask>
     <mask>*pre*.py</mask>
+    <mask>*.py</mask>
+    <mask>*.txt</mask>
   </component>
 </application>
