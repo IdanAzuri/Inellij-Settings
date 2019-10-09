@@ -18,5 +18,6 @@
     <mask>*pre*.py</mask>
     <mask>*.py</mask>
     <mask>*.txt</mask>
+    <mask>.*init.*.txt</mask>
   </component>
 </application>
