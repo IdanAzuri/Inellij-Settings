@@ -48,6 +48,7 @@
       <entry key="CommitDialog">
         <PlaceSettings>
           <option name="ENABLE_SYNC_SCROLL" value="false" />
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
           <option name="READ_ONLY_LOCK" value="false" />
         </PlaceSettings>
       </entry>
@@ -65,6 +66,12 @@
       <entry key="TestsFiledAssertions">
         <PlaceSettings>
           <option name="HIGHLIGHT_POLICY" value="BY_WORD_SPLIT" />
+        </PlaceSettings>
+      </entry>
+      <entry key="VcsLogView">
+        <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
         </PlaceSettings>
       </entry>
     </option>
