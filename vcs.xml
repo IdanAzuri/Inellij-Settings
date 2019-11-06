@@ -58,6 +58,10 @@
           <option name="url" value="http://github.cs.huji.ac.il" />
           <option name="userName" value="idan.azuri" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="idanazuri" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/repos" />
