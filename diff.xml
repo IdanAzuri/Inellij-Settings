@@ -30,13 +30,4 @@
     <option name="DIFF_ENABLED" value="true" />
     <option name="DIFF_EXE_PATH" value="/Applications/Beyond Compare.app/Contents/MacOS/BCompare" />
   </component>
-  <component name="TextDiffSettings">
-    <option name="PLACES_MAP">
-      <entry key="Default">
-        <PlaceSettings>
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
-        </PlaceSettings>
-      </entry>
-    </option>
-  </component>
 </application>
