@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="67a7b0b2-fdf9-48a4-95e1-c5e3b9b4f08c" name="Copy of project-level server 'beast02'" url="http://beast02">
+        <fileTransfer host="beast02" port="22" rootFolder="/home/iazuri/repos/mmdetection" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
