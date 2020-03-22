@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="RpmLiftQuery" type="PLAIN_TEXT" />
+      <mapping pattern="stam" type="PLAIN_TEXT" />
       <mapping pattern="campaign_log" type="PLAIN_TEXT" />
       <mapping pattern="classifier_multi.sh" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
