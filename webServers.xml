@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="1bbd48e2-a0bd-4a56-8726-bd8fc05e3bb9" name="beast02" url="http://beast02">
+        <fileTransfer host="beast02" port="22" rootFolder="/home/iazuri/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
