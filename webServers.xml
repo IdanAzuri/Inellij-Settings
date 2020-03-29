@@ -2,20 +2,24 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="67a7b0b2-fdf9-48a4-95e1-c5e3b9b4f08c" name="Copy of project-level server 'beast02'" url="http://beast02">
-        <fileTransfer host="beast02" port="22" rootFolder="/home/iazuri/repos/mmdetection" accessType="SFTP">
+        <fileTransfer rootFolder="/home/iazuri/repos/mmdetection" accessType="SFTP" host="beast02" port="22" sshConfigId="57404ac2-e2ba-4567-984f-e38c84417d45" sshConfig="iazuri@beast02:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="1bbd48e2-a0bd-4a56-8726-bd8fc05e3bb9" name="beast02" url="http://beast02">
-        <fileTransfer host="beast02" port="22" rootFolder="/home/iazuri/" accessType="SFTP">
+        <fileTransfer rootFolder="/home/iazuri/" accessType="SFTP" host="beast02" port="22" sshConfigId="aeb878bd-f65d-4788-8d2a-a15a6a868ab1" sshConfig="iazuri@beast02:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
+      </webServer>
+      <webServer id="4dbd0296-af9b-4925-a1cf-05ecccfdd1e0" name="iazuri@beast02:22 password">
+        <fileTransfer accessType="SFTP" host="beast02" port="22" sshConfigId="aeb878bd-f65d-4788-8d2a-a15a6a868ab1" sshConfig="iazuri@beast02:22 password" />
+      </webServer>
+      <webServer id="4d3937b5-6422-4061-975d-9d9f4366b73f" name="iazuri@beast02:22 password">
+        <fileTransfer accessType="SFTP" host="beast02" port="22" sshConfigId="aeb878bd-f65d-4788-8d2a-a15a6a868ab1" sshConfig="iazuri@beast02:22 password" />
       </webServer>
     </option>
   </component>
