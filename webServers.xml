@@ -8,8 +8,8 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="099f8ddf-8642-4dc1-a2b2-45fe02c97eb1" name="thor" url="http://beast02">
-        <fileTransfer rootFolder="/thor/iazuri" accessType="SFTP" host="beast02" port="22" sshConfigId="aeb878bd-f65d-4788-8d2a-a15a6a868ab1" sshConfig="iazuri@beast02:22 password">
+      <webServer id="099f8ddf-8642-4dc1-a2b2-45fe02c97eb1" name="hulk" url="http://beast02">
+        <fileTransfer rootFolder="/hulk/users/iazuri" accessType="SFTP" host="beast02" port="22" sshConfigId="aeb878bd-f65d-4788-8d2a-a15a6a868ab1" sshConfig="iazuri@beast02:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
