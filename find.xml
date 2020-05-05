@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*ddg*" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -11,5 +12,6 @@
     <mask>trigo.py</mask>
     <mask>*.py</mask>
     <mask>.*small.py</mask>
+    <mask>*ddg*</mask>
   </component>
 </application>
