@@ -32,10 +32,13 @@
         <fileTransfer accessType="SFTP" sshConfigId="5d2a49d8-a04a-4e17-b5b7-c389dd40221a" sshConfig="iazuri@beast25:22 agent" />
       </webServer>
       <webServer id="80cec1f3-73f1-41e0-ad14-d53fc1609492" name="iazuri@beast25:22" url="http:///">
-        <fileTransfer accessType="SFTP" host="beast25" port="22" sshConfigId="f95a4ff8-2cee-43b3-94e3-092b905fea49" sshConfig="iazuri@beast25:22 agent" authAgent="true" />
+        <fileTransfer accessType="SFTP" sshConfigId="f95a4ff8-2cee-43b3-94e3-092b905fea49" sshConfig="iazuri@beast25:22 agent" />
       </webServer>
       <webServer id="80cec1f3-73f1-41e0-ad14-d53fc1609492" name="iazuri@beast25:22" url="http:///">
-        <fileTransfer accessType="SFTP" host="beast25" port="22" sshConfigId="f95a4ff8-2cee-43b3-94e3-092b905fea49" sshConfig="iazuri@beast25:22 agent" authAgent="true" />
+        <fileTransfer accessType="SFTP" sshConfigId="f95a4ff8-2cee-43b3-94e3-092b905fea49" sshConfig="iazuri@beast25:22 agent" />
+      </webServer>
+      <webServer id="11767fe4-9b75-4161-801e-ab423f67192a" name="iazuri@beast25:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="beast25" port="22" sshConfigId="39a18f0c-0cce-4c5f-ab06-f09ac6b6a591" sshConfig="iazuri@beast25:22 agent" authAgent="true" />
       </webServer>
     </option>
   </component>
