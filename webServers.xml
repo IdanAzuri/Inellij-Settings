@@ -2,14 +2,21 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="1bbd48e2-a0bd-4a56-8726-bd8fc05e3bb9" name="beast02" url="http://beast02">
-        <fileTransfer rootFolder="/home/iazuri/" accessType="SFTP" host="beast02" port="22" sshConfigId="aeb878bd-f65d-4788-8d2a-a15a6a868ab1" sshConfig="iazuri@beast02:22 password">
+        <fileTransfer rootFolder="/home/iazuri/" accessType="SFTP" host="beast25" port="22" sshConfigId="aeb878bd-f65d-4788-8d2a-a15a6a868ab1" sshConfig="iazuri@beast25:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="099f8ddf-8642-4dc1-a2b2-45fe02c97eb1" name="hulk" url="http://beast02">
-        <fileTransfer rootFolder="/hulk/users/iazuri" accessType="SFTP" host="beast02" port="22" sshConfigId="aeb878bd-f65d-4788-8d2a-a15a6a868ab1" sshConfig="iazuri@beast02:22 password">
+        <fileTransfer rootFolder="/hulk/users/iazuri" accessType="SFTP" host="beast25" port="22" sshConfigId="aeb878bd-f65d-4788-8d2a-a15a6a868ab1" sshConfig="iazuri@beast25:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="a741ea99-6167-4b9c-a184-3a39a855dc09" name="beas25" url="http://beast25">
+        <fileTransfer rootFolder="/home/iazuri/" accessType="SFTP" host="beast25" port="22" sshConfigId="aeb878bd-f65d-4788-8d2a-a15a6a868ab1" sshConfig="iazuri@beast25:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
