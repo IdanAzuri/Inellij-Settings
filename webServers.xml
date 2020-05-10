@@ -22,6 +22,9 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="98a83b84-7850-4353-93ad-5ca84d4f72af" name="iazuri@beast25:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="beast25" port="22" sshConfigId="13bdc3bd-68d0-4fb9-997f-4ddb4ace8092" sshConfig="iazuri@beast25:22 agent" authAgent="true" />
+      </webServer>
     </option>
   </component>
 </application>
