@@ -2,14 +2,14 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="1bbd48e2-a0bd-4a56-8726-bd8fc05e3bb9" name="beast25" url="http://beast25">
-        <fileTransfer rootFolder="/home/iazuri" accessType="SFTP" host="beast25" port="22" sshConfigId="aeb878bd-f65d-4788-8d2a-a15a6a868ab1" sshConfig="iazuri@beast25:22 password">
+        <fileTransfer rootFolder="/home/iazuri" accessType="SFTP" host="beast20" port="22" sshConfigId="aeb878bd-f65d-4788-8d2a-a15a6a868ab1" sshConfig="iazuri@beast20:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="099f8ddf-8642-4dc1-a2b2-45fe02c97eb1" name="hulk" url="http://beast02">
-        <fileTransfer rootFolder="/hulk/users/iazuri" accessType="SFTP" host="beast25" port="22" sshConfigId="aeb878bd-f65d-4788-8d2a-a15a6a868ab1" sshConfig="iazuri@beast25:22 password">
+        <fileTransfer rootFolder="/hulk/users/iazuri" accessType="SFTP" host="beast20" port="22" sshConfigId="aeb878bd-f65d-4788-8d2a-a15a6a868ab1" sshConfig="iazuri@beast20:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -27,13 +27,6 @@
       </webServer>
       <webServer id="5405f582-f626-4815-bb73-884bc9525096" name="iazuri@beast02:22" url="http:///">
         <fileTransfer accessType="SFTP" host="beast02" port="22" sshConfigId="39394ccb-e597-4494-8055-34c653d015ef" sshConfig="iazuri@beast02:22 agent" authAgent="true" />
-      </webServer>
-      <webServer id="f644db18-e8d5-4fca-969e-bb8bc74e4c40" name="beast20" url="http://beast20">
-        <fileTransfer rootFolder="/home/iazuri" accessType="SFTP" host="beast25" port="22" sshConfigId="aeb878bd-f65d-4788-8d2a-a15a6a868ab1" sshConfig="iazuri@beast25:22 password">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
       </webServer>
     </option>
   </component>
