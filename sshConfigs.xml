@@ -1,9 +1,8 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="beast20" id="aeb878bd-f65d-4788-8d2a-a15a6a868ab1" port="22" nameFormat="DESCRIPTIVE" username="iazuri" />
       <sshConfig authType="PASSWORD" host="beast02" id="39394ccb-e597-4494-8055-34c653d015ef" port="22" nameFormat="DESCRIPTIVE" username="iazuri" />
-      <sshConfig authType="OPEN_SSH" host="beast25" id="ce36ff7f-74cc-4109-9bc0-b564b1141fcd" port="22" nameFormat="DESCRIPTIVE" username="iazuri" />
+      <sshConfig authType="PASSWORD" host="beast25" id="ce36ff7f-74cc-4109-9bc0-b564b1141fcd" port="22" nameFormat="DESCRIPTIVE" username="iazuri" />
     </configs>
   </component>
 </application>
