@@ -4,6 +4,7 @@
       <sshConfig authType="PASSWORD" host="beast02" id="39394ccb-e597-4494-8055-34c653d015ef" port="22" nameFormat="DESCRIPTIVE" username="iazuri" />
       <sshConfig authType="PASSWORD" host="beast25" id="ce36ff7f-74cc-4109-9bc0-b564b1141fcd" port="22" nameFormat="DESCRIPTIVE" username="iazuri" />
       <sshConfig authType="PASSWORD" host="beast16" id="a0d7b481-9e64-4616-987f-e157cf1863d3" port="22" nameFormat="DESCRIPTIVE" username="iazuri" />
+      <sshConfig authType="PASSWORD" host="beast19" id="7a7fe13a-5aef-48cf-93bf-fec5025319a3" port="22" nameFormat="DESCRIPTIVE" username="iazuri" />
     </configs>
   </component>
 </application>
