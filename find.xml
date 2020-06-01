@@ -3,6 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="trigo*.py" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -12,5 +13,6 @@
     <mask>.*small.py</mask>
     <mask>*ddg*</mask>
     <mask>*.py</mask>
+    <mask>trigo*.py</mask>
   </component>
 </application>
