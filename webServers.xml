@@ -9,7 +9,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="099f8ddf-8642-4dc1-a2b2-45fe02c97eb1" name="hulk" url="http://beast02">
-        <fileTransfer rootFolder="/hulk/" accessType="SFTP" host="beast25" port="22" sshConfigId="ce36ff7f-74cc-4109-9bc0-b564b1141fcd" sshConfig="iazuri@beast25:22 password">
+        <fileTransfer rootFolder="/hulk/" accessType="SFTP" host="beast16" port="22" sshConfigId="a0d7b481-9e64-4616-987f-e157cf1863d3" sshConfig="iazuri@beast16:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
