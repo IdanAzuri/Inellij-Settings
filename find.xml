@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -11,7 +14,7 @@
     <mask>trigo.py</mask>
     <mask>.*small.py</mask>
     <mask>*ddg*</mask>
-    <mask>*.py</mask>
     <mask>trigo*.py</mask>
+    <mask>*.py</mask>
   </component>
 </application>
