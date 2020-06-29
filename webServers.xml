@@ -9,7 +9,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="099f8ddf-8642-4dc1-a2b2-45fe02c97eb1" name="hulk" url="http://beast02">
-        <fileTransfer rootFolder="/hulk/" accessType="SFTP" host="beast16" port="22" sshConfigId="a0d7b481-9e64-4616-987f-e157cf1863d3" sshConfig="iazuri@beast16:22 password">
+        <fileTransfer rootFolder="/hulk/homedirs/iazuri/" accessType="SFTP" host="beast16" port="22" sshConfigId="a0d7b481-9e64-4616-987f-e157cf1863d3" sshConfig="iazuri@beast16:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -70,7 +70,7 @@
       <webServer id="cc785b4b-f945-4f35-b6b4-32d41821226e" name="iazuri@beast16:22 password (6)">
         <fileTransfer accessType="SFTP" host="beast16" port="22" sshConfigId="a0d7b481-9e64-4616-987f-e157cf1863d3" sshConfig="iazuri@beast16:22 password" />
       </webServer>
-      <webServer id="b6fa5a5d-404d-48c3-9d58-3e57c1fee5a9" name="iazuri@beast16:22 password">
+      <webServer id="b6fa5a5d-404d-48c3-9d58-3e57c1fee5a9" name="iazuri@beast16:22 password (7)">
         <fileTransfer accessType="SFTP" host="beast16" port="22" sshConfigId="a0d7b481-9e64-4616-987f-e157cf1863d3" sshConfig="iazuri@beast16:22 password" />
       </webServer>
     </option>
