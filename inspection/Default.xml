@@ -30,6 +30,7 @@
         <option value="hbconfig.Config.*" />
         <option value="torch.stack" />
         <option value="torch.from_numpy" />
+        <option value="list.add" />
       </list>
     </option>
   </inspection_tool>
