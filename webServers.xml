@@ -16,7 +16,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="a741ea99-6167-4b9c-a184-3a39a855dc09" name="beas02" url="http://beast02">
-        <fileTransfer rootFolder="/home/iazuri" accessType="SFTP" host="beast16" port="22" sshConfigId="a0d7b481-9e64-4616-987f-e157cf1863d3" sshConfig="iazuri@beast16:22 password">
+        <fileTransfer rootFolder="/home/iazuri" accessType="SFTP" host="beast02" port="22" sshConfigId="39394ccb-e597-4494-8055-34c653d015ef" sshConfig="iazuri@beast02:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
