@@ -65,6 +65,9 @@
       <webServer id="12a29583-3b93-4b61-9674-c4ae13f1eb8f" name="beast17_master" url="http:///">
         <fileTransfer rootFolder="/home/iazuri" accessType="SFTP" host="beast17" port="22" sshConfigId="985edc38-2921-4885-9073-8ae1da194588" sshConfig="iazuri@beast17:22 password" />
       </webServer>
+      <webServer id="b496f259-f815-496e-aeae-88caa586d1b7" name="iazuri@beast17:22 password">
+        <fileTransfer accessType="SFTP" host="beast17" port="22" sshConfigId="985edc38-2921-4885-9073-8ae1da194588" sshConfig="iazuri@beast17:22 password" />
+      </webServer>
     </option>
   </component>
 </application>
