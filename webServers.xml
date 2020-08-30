@@ -80,6 +80,9 @@
       <webServer id="f7432e56-0b32-414d-a06d-a33f01ed9e02" name="iazuri@beast25:22 password">
         <fileTransfer accessType="SFTP" host="beast25" port="22" sshConfigId="ce36ff7f-74cc-4109-9bc0-b564b1141fcd" sshConfig="iazuri@beast25:22 password" />
       </webServer>
+      <webServer id="e1585448-d803-422b-b199-67f11477f27c" name="iazuri@beast25:22 password">
+        <fileTransfer accessType="SFTP" host="beast25" port="22" sshConfigId="ce36ff7f-74cc-4109-9bc0-b564b1141fcd" sshConfig="iazuri@beast25:22 password" />
+      </webServer>
     </option>
   </component>
 </application>
