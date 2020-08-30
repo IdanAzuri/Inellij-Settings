@@ -7,7 +7,7 @@
       <webServer id="214fec63-41f2-469a-ab4a-bb909d86c52e" name="iazuri@beast25:22" url="http:///">
         <fileTransfer accessType="SFTP" host="beast25" port="22" sshConfigId="a673f66f-a14a-4c19-89a3-ec4ff07f2695" sshConfig="iazuri@beast25:22 agent" authAgent="true" />
       </webServer>
-      <webServer id="214fec63-41f2-469a-ab4a-bb909d86c52e" name="iazuri@beast25:22" url="http:///">
+      <webServer id="214fec63-41f2-469a-ab4a-bb909d86c52e" name="iazuri@beast25:22 (1)" url="http:///">
         <fileTransfer accessType="SFTP" host="beast25" port="22" sshConfigId="a673f66f-a14a-4c19-89a3-ec4ff07f2695" sshConfig="iazuri@beast25:22 agent" authAgent="true" />
       </webServer>
       <webServer id="dc019ce4-2c71-4315-a100-3f0371242f26" name="iazuri@beast20:22" url="http:///">
