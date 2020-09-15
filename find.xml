@@ -19,5 +19,6 @@
     <mask>*.py</mask>
     <mask>*rgb*wrists*.py</mask>
     <mask>.sh</mask>
+    <mask>*phase3*</mask>
   </component>
 </application>
