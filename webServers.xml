@@ -1,9 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="f1eda881-2991-4745-991f-e4e8689aa827" name="iazuri@beast17:22 password">
-        <fileTransfer accessType="SFTP" host="beast17" port="22" sshConfigId="985edc38-2921-4885-9073-8ae1da194588" sshConfig="iazuri@beast17:22 password" />
-      </webServer>
       <webServer id="214fec63-41f2-469a-ab4a-bb909d86c52e" name="iazuri@beast25:22" url="http:///">
         <fileTransfer accessType="SFTP" host="beast25" port="22" sshConfigId="a673f66f-a14a-4c19-89a3-ec4ff07f2695" sshConfig="iazuri@beast25:22 agent" authAgent="true" />
       </webServer>
@@ -45,6 +42,9 @@
       </webServer>
       <webServer id="72cc8c65-9267-4934-8a2a-8bc521583183" name="iazuri@beast16:22 password (4)">
         <fileTransfer accessType="SFTP" host="beast16" port="22" sshConfigId="a0d7b481-9e64-4616-987f-e157cf1863d3" sshConfig="iazuri@beast16:22 password" />
+      </webServer>
+      <webServer id="21fe33e2-2c0a-4f0a-a6e5-c7f02d06ceac" name="iazuri@beast17:22 password">
+        <fileTransfer accessType="SFTP" host="beast17" port="22" sshConfigId="985edc38-2921-4885-9073-8ae1da194588" sshConfig="iazuri@beast17:22 password" />
       </webServer>
     </option>
   </component>
