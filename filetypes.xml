@@ -13,8 +13,8 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="cache" type="Python" />
       <mapping pattern="adjust_gamma" type="Python" />
-      <mapping pattern="stylegan_generator" type="Python" />
       <mapping pattern="DCGAN_a" type="Python" />
+      <mapping pattern="stylegan_generator" type="Python" />
       <mapping pattern="s3loader" type="Python" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
