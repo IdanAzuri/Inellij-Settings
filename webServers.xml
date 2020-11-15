@@ -49,19 +49,19 @@
       <webServer id="3a42888e-1135-4543-9c4e-05aa22eeef74" name="iazuri@beast25:22 password (1)">
         <fileTransfer accessType="SFTP" host="beast25" port="22" sshConfigId="a673f66f-a14a-4c19-89a3-ec4ff07f2695" sshConfig="iazuri@beast25:22 password" />
       </webServer>
-      <webServer id="dfcfc220-9541-47e6-be43-794b4791b93d" name="iazuri@beast25:22 password">
+      <webServer id="dfcfc220-9541-47e6-be43-794b4791b93d" name="iazuri@beast25:22 password (2)">
         <fileTransfer accessType="SFTP" host="beast25" port="22" sshConfigId="a673f66f-a14a-4c19-89a3-ec4ff07f2695" sshConfig="iazuri@beast25:22 password" />
       </webServer>
-      <webServer id="12e06438-cd7c-460b-919c-8262915e3520" name="iazuri@beast25:22 password">
+      <webServer id="12e06438-cd7c-460b-919c-8262915e3520" name="iazuri@beast25:22 password (3)">
         <fileTransfer accessType="SFTP" host="beast25" port="22" sshConfigId="a673f66f-a14a-4c19-89a3-ec4ff07f2695" sshConfig="iazuri@beast25:22 password" />
       </webServer>
-      <webServer id="5ca08f09-5522-424c-a055-62b6486e157f" name="iazuri@beast25:22 password">
+      <webServer id="5ca08f09-5522-424c-a055-62b6486e157f" name="iazuri@beast25:22 password (4)">
         <fileTransfer accessType="SFTP" host="beast25" port="22" sshConfigId="a673f66f-a14a-4c19-89a3-ec4ff07f2695" sshConfig="iazuri@beast25:22 password" />
       </webServer>
-      <webServer id="e74f0d15-c524-4291-89ea-d722b202b0d9" name="iazuri@beast16:22 password">
+      <webServer id="e74f0d15-c524-4291-89ea-d722b202b0d9" name="iazuri@beast16:22 password (5)">
         <fileTransfer accessType="SFTP" host="beast16" port="22" sshConfigId="a0d7b481-9e64-4616-987f-e157cf1863d3" sshConfig="iazuri@beast16:22 password" />
       </webServer>
-      <webServer id="a6a52af6-b3d9-4409-9dcf-62066fcbc009" name="iazuri@beast16:22 password">
+      <webServer id="a6a52af6-b3d9-4409-9dcf-62066fcbc009" name="iazuri@beast16:22 password (6)">
         <fileTransfer accessType="SFTP" host="beast16" port="22" sshConfigId="a0d7b481-9e64-4616-987f-e157cf1863d3" sshConfig="iazuri@beast16:22 password" />
       </webServer>
     </option>
