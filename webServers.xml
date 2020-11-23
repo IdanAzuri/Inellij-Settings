@@ -64,8 +64,11 @@
       <webServer id="a6a52af6-b3d9-4409-9dcf-62066fcbc009" name="iazuri@beast16:22 password (6)">
         <fileTransfer accessType="SFTP" host="beast16" port="22" sshConfigId="a0d7b481-9e64-4616-987f-e157cf1863d3" sshConfig="iazuri@beast16:22 password" />
       </webServer>
-      <webServer id="561a07cc-dd38-411a-9d62-7d30bfb3ff27" name="iazuri@beast16:22 password">
+      <webServer id="561a07cc-dd38-411a-9d62-7d30bfb3ff27" name="iazuri@beast16:22 password (7)">
         <fileTransfer accessType="SFTP" host="beast16" port="22" sshConfigId="a0d7b481-9e64-4616-987f-e157cf1863d3" sshConfig="iazuri@beast16:22 password" />
+      </webServer>
+      <webServer id="f0bec894-5045-4597-83a8-f8dc913ef379" name="/hulk">
+        <fileTransfer rootFolder="/hulk" accessType="SFTP" host="beast25" port="22" sshConfigId="a673f66f-a14a-4c19-89a3-ec4ff07f2695" sshConfig="iazuri@beast25:22 password" />
       </webServer>
     </option>
   </component>
