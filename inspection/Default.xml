@@ -49,6 +49,7 @@
         <option value="torch.from_numpy" />
         <option value="list.add" />
         <option value="interactions_noise_filter.utils.datasets.FastDataLoader.batch_sampler" />
+        <option value="bool.numpy" />
       </list>
     </option>
   </inspection_tool>
