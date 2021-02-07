@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="heart" type="AUTO_DETECTED" />
+      <mapping pattern="heart-small" type="AUTO_DETECTED" />
       <mapping pattern="ttfnet_d53_phase3_mixup" type="AUTO_DETECTED" />
       <mapping pattern="classifier_multi.sh" type="PLAIN_TEXT" />
       <mapping pattern="RpmLiftQuery" type="PLAIN_TEXT" />
