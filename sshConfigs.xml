@@ -7,6 +7,7 @@
       <sshConfig authType="OPEN_SSH" host="beast20" id="44ba2246-43cd-4b47-9969-48b848cd0bf4" port="22" nameFormat="DESCRIPTIVE" username="iazuri" />
       <sshConfig authType="PASSWORD" host="beast17" id="985edc38-2921-4885-9073-8ae1da194588" port="22" nameFormat="DESCRIPTIVE" username="iazuri" />
       <sshConfig authType="PASSWORD" host="beast25" id="a673f66f-a14a-4c19-89a3-ec4ff07f2695" port="22" nameFormat="DESCRIPTIVE" username="iazuri" />
+      <sshConfig authType="PASSWORD" host="beast05" id="62cffc3c-8d73-43ea-bb52-d24894ec38bf" port="22" nameFormat="DESCRIPTIVE" username="iazuri" />
     </configs>
   </component>
 </application>
