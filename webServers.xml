@@ -23,7 +23,7 @@
         <fileTransfer accessType="SFTP" host="beast17" port="22" sshConfigId="985edc38-2921-4885-9073-8ae1da194588" sshConfig="iazuri@beast17:22 password" />
       </webServer>
       <webServer id="cbd98ecc-8d97-4431-8c5b-2985958e92fa" name="iazuri@beast17:22 password (4)">
-        <fileTransfer rootFolder="/home/iazuri" accessType="SFTP" host="beast17" port="22" sshConfigId="985edc38-2921-4885-9073-8ae1da194588" sshConfig="iazuri@beast17:22 password" />
+        <fileTransfer accessType="SFTP" host="beast17" port="22" sshConfigId="985edc38-2921-4885-9073-8ae1da194588" sshConfig="iazuri@beast17:22 password" />
       </webServer>
       <webServer id="5354a839-62e5-4efc-821c-8dbb63b7df76" name="iazuri@beast16:22 password (1)">
         <fileTransfer accessType="SFTP" host="beast16" port="22" sshConfigId="a0d7b481-9e64-4616-987f-e157cf1863d3" sshConfig="iazuri@beast16:22 password" />
@@ -78,6 +78,15 @@
       </webServer>
       <webServer id="29508780-bb44-4d27-be20-a26f31b953e8" name="iazuri@beast05:22 password">
         <fileTransfer accessType="SFTP" host="beast05" port="22" sshConfigId="62cffc3c-8d73-43ea-bb52-d24894ec38bf" sshConfig="iazuri@beast05:22 password" />
+      </webServer>
+      <webServer id="58073cd5-8755-440c-9f81-6f76c23d5822" name="iazuri@beast17:22 password">
+        <fileTransfer accessType="SFTP" host="beast17" port="22" sshConfigId="985edc38-2921-4885-9073-8ae1da194588" sshConfig="iazuri@beast17:22 password" />
+      </webServer>
+      <webServer id="e27ed198-84bc-4c50-94fe-7f31c78c6e0f" name="iazuri@beast17:22 password">
+        <fileTransfer accessType="SFTP" host="beast17" port="22" sshConfigId="985edc38-2921-4885-9073-8ae1da194588" sshConfig="iazuri@beast17:22 password" />
+      </webServer>
+      <webServer id="479ee45f-a329-4114-80d5-7e8fd96542e3" name="iazuri@beast17:22 password">
+        <fileTransfer accessType="SFTP" host="beast17" port="22" sshConfigId="985edc38-2921-4885-9073-8ae1da194588" sshConfig="iazuri@beast17:22 password" />
       </webServer>
     </option>
   </component>
