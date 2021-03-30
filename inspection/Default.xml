@@ -55,6 +55,7 @@
         <option value="list.add" />
         <option value="interactions_noise_filter.utils.datasets.FastDataLoader.batch_sampler" />
         <option value="bool.numpy" />
+        <option value="data_libs.stages.train_bc_model_cli.BCRunner.*" />
       </list>
     </option>
   </inspection_tool>
