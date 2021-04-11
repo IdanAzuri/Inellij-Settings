@@ -1,4 +1,5 @@
 <code_scheme name="Default_izik" version="173">
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <Python>
     <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
     <option name="USE_CONTINUATION_INDENT_FOR_COLLECTION_AND_COMPREHENSIONS" value="true" />
