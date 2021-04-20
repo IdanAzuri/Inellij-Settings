@@ -56,6 +56,7 @@
         <option value="interactions_noise_filter.utils.datasets.FastDataLoader.batch_sampler" />
         <option value="bool.numpy" />
         <option value="data_libs.stages.train_bc_model_cli.BCRunner.*" />
+        <option value="data_libs.stages.online_event_video_creation.get_database_name_based_on_bucket_name" />
       </list>
     </option>
   </inspection_tool>
