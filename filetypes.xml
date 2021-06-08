@@ -1,25 +1,25 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="ttfnet_d53_phase3_mixup" type="AUTO_DETECTED" />
       <mapping pattern="heart" type="AUTO_DETECTED" />
       <mapping pattern="heart-small" type="AUTO_DETECTED" />
-      <mapping pattern="ttfnet_d53_phase3_mixup" type="AUTO_DETECTED" />
-      <mapping pattern="classifier_multi.sh" type="PLAIN_TEXT" />
-      <mapping pattern="RpmLiftQuery" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignor" type="PLAIN_TEXT" />
-      <mapping pattern="stam" type="PLAIN_TEXT" />
-      <mapping pattern="tasha_args" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping pattern="campaign_log" type="PLAIN_TEXT" />
+      <mapping pattern="RpmLiftQuery" type="PLAIN_TEXT" />
+      <mapping pattern="tasha_args" type="PLAIN_TEXT" />
+      <mapping pattern="classifier_multi.sh" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignor" type="PLAIN_TEXT" />
+      <mapping pattern="stam" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="log-1" type="PLAIN_TEXT" />
       <mapping pattern="cache" type="Python" />
+      <mapping pattern="s3loader" type="Python" />
       <mapping pattern="adjust_gamma" type="Python" />
       <mapping pattern="DCGAN_a" type="Python" />
       <mapping pattern="stylegan_generator" type="Python" />
-      <mapping pattern="s3loader" type="Python" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
