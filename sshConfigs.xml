@@ -8,6 +8,7 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="beast17" id="985edc38-2921-4885-9073-8ae1da194588" port="22" nameFormat="DESCRIPTIVE" username="iazuri" />
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="beast25" id="a673f66f-a14a-4c19-89a3-ec4ff07f2695" port="22" nameFormat="DESCRIPTIVE" username="iazuri" />
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="beast05" id="62cffc3c-8d73-43ea-bb52-d24894ec38bf" port="22" nameFormat="DESCRIPTIVE" username="iazuri" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="beast13" id="ac6ab857-3dab-46c6-96a2-a3f66e75b00c" port="22" nameFormat="DESCRIPTIVE" username="iazuri" />
     </configs>
   </component>
 </application>
