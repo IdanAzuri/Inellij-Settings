@@ -8,7 +8,6 @@
       <mapping pattern="tasha_args" type="PLAIN_TEXT" />
       <mapping pattern="classifier_multi.sh" type="PLAIN_TEXT" />
       <mapping pattern=".gitignor" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping pattern="campaign_log" type="PLAIN_TEXT" />
       <mapping pattern="stam" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
@@ -23,6 +22,7 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
+      <removed_mapping pattern=".gitignore" approved="true" type="GitIgnore file" />
     </extensionMap>
   </component>
 </application>
